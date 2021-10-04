@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = antoine.matta@hotmail.com
+	name = Antoine Matta
